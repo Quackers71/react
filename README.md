@@ -7,17 +7,20 @@ How to configure Git to ignore files - https://docs.github.com/en/get-started/ge
 
 ## Commands for React
 For the original reactful run (in two seperate terminals) :
-- npm run dev:bundler
-- npm run dev:server
+```
+npm run dev:bundler
+npm run dev:server
+```
+For the npx-reactful :
+```
+mkdir npx-reactful
+cd npx-reactful
+npx reactful star-match
+cd star-match
 
-For the npx-reactful :</br></br>
-- mkdir npx-reactful
-- cd npx-reactful
-- npx reactful star-match</br></br>
+#Start the app:
+npm start
 
-- cd star-match</br>
-Start the app:</br>
-- npm start</br>
-Run all tests:</br>
-- npm test</br>
- 
+#Run all tests:
+npm test
+```
