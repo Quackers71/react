@@ -48,6 +48,11 @@ cd react-app
 npm start
 ```
 
+Install Bootstrap
+```
+npm i bootstrap@4.1.1
+```
+
 </br></br>
 # React Pluralsight Stuff
 React 17: Getting Started - https://www.pluralsight.com/courses/react-js-getting-started</br>
