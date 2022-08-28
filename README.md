@@ -7,10 +7,41 @@ React JS - React Tutorial for Beginners with Mosh - https://www.youtube.com/watc
 First React App
 ```
 npm i -g create-react-app@1.5.2
+
+nvm use 16.17.0
+nvm alias default 16.17.0
+
 mkdir demo
 cd demo
 npx create-react-app@latest react-app
 ```
+
+Output :
+```
+Success! Created counter-app at /home/robq/repos/react/demo/react-app
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd counter-app
+  npm start
+
+Happy hacking!
+```
+
 Start the App
 ```
 cd react-app
