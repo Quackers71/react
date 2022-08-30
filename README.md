@@ -85,3 +85,4 @@ npm test
 - https://www.javascripttutorial.net/nodejs-tutorial/npm-list/
 - https://www.oddicles.net/blog/npx-create-react-app-not-working-heres-the-solution/
 - https://github.com/Quackers71/nodejs/blob/master/README.md
+- https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
