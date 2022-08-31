@@ -2,11 +2,16 @@ import React, { Component } from 'react';
 
 class NavBar extends Component {
     render() { 
-        return (<nav className="navbar bg-light">
-        <div className="container-fluid">
-          <a className="navbar-brand" href="#">Navbar</a>
-        </div>
-      </nav>);
+        return (
+        <nav className="navbar navbar-light bg-light">
+          <a className="navbar-brand" href="#top">
+            Navbar{" "}
+              <span className="badge badge-pill badge-secondary">
+                {this.props.totalCounters}
+              </span>
+          </a>
+        </nav>
+      );
     }
 }
  
