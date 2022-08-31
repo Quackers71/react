@@ -42,18 +42,20 @@ We suggest that you begin by typing:
 Happy hacking!
 ```
 
+Install Bootstrap
+```
+npm i bootstrap@4.1.1
+```
+
 Start the App
 ```
 cd react-app
 npm start
 ```
 
-Install Bootstrap
-```
-npm i bootstrap@4.1.1
-```
+<img src="./App-Components.png" width=250>
+</br></br></br>
 
-</br></br>
 # React Pluralsight Stuff
 React 17: Getting Started - https://www.pluralsight.com/courses/react-js-getting-started</br>
 React Commonly Faced Problems - https://jscomplete.com/learn/react-beyond-basics/react-cfp</br>
@@ -86,3 +88,4 @@ npm test
 - https://www.oddicles.net/blog/npx-create-react-app-not-working-heres-the-solution/
 - https://github.com/Quackers71/nodejs/blob/master/README.md
 - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+- https://getbootstrap.com/docs/5.2/components/navbar/
