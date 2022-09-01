@@ -52,8 +52,11 @@ Start the App
 cd react-app
 npm start
 ```
-
+Components and Flow</br>
 <img src="./App-Components.png" width=250>
+</br>
+Frequent Lifecycle Hooks (Methods)</br>
+<img src="./Frequent-Lifecycle-Hooks.png" width=450>
 </br></br></br>
 
 # React Pluralsight Stuff
