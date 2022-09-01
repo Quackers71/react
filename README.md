@@ -89,3 +89,4 @@ npm test
 - https://github.com/Quackers71/nodejs/blob/master/README.md
 - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 - https://getbootstrap.com/docs/5.2/components/navbar/
+- https://github.com/jsx-eslint/eslint-plugin-jsx-a11y/blob/HEAD/docs/rules/anchor-is-valid.md
